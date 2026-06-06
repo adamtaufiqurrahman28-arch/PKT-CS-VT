@@ -1,0 +1,4 @@
+ReadableTime,FileName,SHA256String,SeverityName,DetectName,Tactic,Technique,ObjectType,NumberOfDetections,ComputerName,ProductType,Version
+2026-06-05 10:00:00,test.exe,226a723ffb4a91d9950a8b266167c5b354ab0db1dc225578494917fe53867ef2,High,Malware test,Malware,PUP,Executable,3,HOST-01,Workstation,7.35.20709.0
+2026-06-05 11:00:00,script.ps1,,Medium,Suspicious PowerShell,Execution,Scripting,Suspicious Script,1,HOST-02,Workstation,7.35.20709.0
+2026-06-05 12:00:00,unknown.bin,not-a-sha,Low,Unknown object,Malware,Unknown,Suspicious Object,1,HOST-03,Server,7.35.20709.0
